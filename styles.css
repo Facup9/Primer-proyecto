@@ -1,0 +1,225 @@
+*{
+    font-size: 16px;
+    font-family: cursive;
+    background:#e6f5ff;
+    margin:0;
+    padding:0px;
+}
+
+.logo{
+    background: transparent;
+    width: 200px;
+    box-sizing:border-box;
+    padding:0px;
+    border:50px;
+    margin-top: 20px;
+    margin-left:30px;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
+
+.class{
+    color: blue;
+    box-sizing: content-box;
+    position: relative;
+    bottom: 150px;
+    left: 295px;
+}
+.mate{
+    box-sizing: content-box;
+    position: relative;
+    bottom: 100px;
+    left: 250px;
+    bottom: 130px;
+}
+.top{
+    width: 100px;
+    font-size: 20px;
+    box-sizing: border-box;
+    position: relative;
+    border:0px;
+    padding:0px;
+    margin: 0px;
+    display:inline-block;
+}
+
+.container{
+    box-sizing: border-box;
+    width: 700px;
+    padding: 0px;
+    position: relative;
+    left: 63%;
+    bottom: 190px;
+}
+
+    .nav{
+        box-sizing: border-box;
+        border-radius: 50px;
+        position: relative;
+        display:flex;   
+        background-color: #5200cc;
+        top: 0px; 
+        }
+ul{
+    list-style:none;
+}
+
+.navigation{
+    color: #fff;
+    background-color: #5200cc;
+}
+a{
+    text-decoration: none;
+}
+
+.search{
+    box-sizing: border-box;
+    background-color: #fff;
+    outline: #fff;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    height: 25px;
+    padding: 0px 0px 5px 50px;
+    display: inline-block;
+}
+.icon {
+    position: absolute;
+    margin-top: 5px;
+    right: 30px;
+}
+    li{
+        box-sizing: border-box;
+        position: relative;
+        padding: 20px;
+        margin: 0px;
+        background-color: #5200cc;
+        border-radius: 50px;
+      
+    }
+
+    .titulo{
+        margin:0px 120px;
+        padding: 0px;
+        display: inline-block;
+        width: 500px;
+    
+    }
+
+    .lets{
+        font-size: 30px;
+        font-family: cursive;
+        box-sizing: border-box;
+        position: relative;
+        border: 0px;
+        margin:1px 20px;
+        padding:1px 20px;
+    }
+
+    .learning{
+        color: #5200cc;
+        font-size: 60px;
+        font-family: cursive;
+        box-sizing: border-box;
+        position: relative;
+        border: 0px;
+        margin:1px 20px;
+        padding:1px 20px;
+    }
+
+    .home{
+        font-size: 60px;
+        font-family: cursive;
+        box-sizing: border-box;
+        position: relative;
+        border: 0px;
+        margin:1px 20px;
+        padding:1px 20px;
+    }
+    .section{
+        box-sizing: border-box;
+        margin-top: 20px;
+    }
+
+    .section{
+        font-family: cursive;
+        box-sizing: border-box;
+        position: relative;
+        border: 2px;
+        margin: 2px 20px;
+        padding: 2px 20px;
+    }
+
+
+    .more{
+        box-sizing: border-box;
+        position: relative;
+        border: 20px;
+        margin: 20px 150px;
+        padding: 20px 50px;
+    }
+
+        .apply{
+            box-sizing: border-box;
+            color: #fff;
+            background: #5200cc;
+            width: 150px;
+            position: relative;
+            border: 5px solid #5200cc;;
+            border-radius: 50px;
+            padding: 0 20;
+        }
+
+        .read{
+            box-sizing: border-box;
+            color: #fff;
+            background: #5200cc;
+            width: 150px;
+            position: relative;
+            border: 5px solid #5200cc;
+            border-radius: 50px;
+        }
+
+        .icons{
+            box-sizing: border-box;
+            margin: 20px 150px;
+            padding: 20px 40px;
+            border: 20px 40px;
+            display: flex;
+            position: relative;
+            
+        }
+.chatbox{
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 0px;
+    width: 20px;
+    left: 102%;
+    margin-bottom: 50px;
+    position: relative;
+}
+        .chat{
+            box-sizing: border-box;
+            width: 80px;
+            position: relative;
+            display: inline-block;
+            bottom: 50%;
+            padding: 0px;
+        }
+
+        .points{
+            box-sizing: border-box;
+            display: inline-block;
+            position: relative;
+            left: 15%;
+        }
+
+        img{
+            box-sizing: border-box;
+            position: relative;
+            display: inline-block;
+            width: 80%;
+            left: 100%;
+            bottom: 130%;
+            border: 1px solid #e6f5ff;
+            border-radius: 100%;
+        }
